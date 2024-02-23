@@ -10,7 +10,6 @@
 // null -> standalone value
 // undefined
 
-
 // object
 
 console.log(typeof undefined);

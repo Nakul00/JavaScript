@@ -78,5 +78,5 @@ JsUser.age = 34
 
  //console.log(course.price);
  const {instructor: teacher} = course  //destrcuturing the object, destrcuture the name then instructor: teacher
- console.log(teacher);
+ console.log(teacher);  //done
 
